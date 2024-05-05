@@ -695,3 +695,4 @@ void W3DGadgetPushButtonImageDrawThree(GameWindow *window, WinInstanceData *inst
 		}
 	}
 }
+
