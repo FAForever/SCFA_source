@@ -279,3 +279,4 @@ void View::xfer( Xfer *xfer )
 	lookAt( &viewPos );
 
 }  // end xfer
+
