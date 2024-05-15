@@ -171,3 +171,4 @@ void Vector3SolidCylinderRandomizer::Scale(float scale)
 	Extent *= scale;
 	Radius *= scale;
 }
+
