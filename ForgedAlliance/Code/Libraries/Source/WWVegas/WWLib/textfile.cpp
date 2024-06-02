@@ -177,3 +177,4 @@ TextFileClass::Write_Line (const StringClass &string)
 
 	return retval;
 }
+
