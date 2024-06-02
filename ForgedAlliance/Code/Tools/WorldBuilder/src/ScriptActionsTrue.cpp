@@ -273,3 +273,4 @@ void ScriptActionsTrue::OnChangeEditComment()
 	pWnd->GetWindowText(comment);
 	m_script->setActionComment(AsciiString((LPCTSTR)comment));
 }
+
