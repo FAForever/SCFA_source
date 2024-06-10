@@ -628,3 +628,4 @@ void TextureFileClass::Load_Locked_Surface()
 }
 
 #endif //WW3D_DX8
+
