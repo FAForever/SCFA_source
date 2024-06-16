@@ -71,3 +71,4 @@ void CreateTranslationTable ( void )
 	fclose ( out );
 
 }
+
