@@ -705,3 +705,4 @@ void CWorldBuilderApp::OnUpdateTexturesizingMapclifftextures(CCmdUI* pCmdUI)
 	// TODO: Add your command update UI handler code here
 	
 }
+
