@@ -740,3 +740,4 @@ void HMorphAnimClass::Release_Keys(void)
 	// update the framecount as 0
 	FrameCount = 0;
 }
+
