@@ -278,3 +278,4 @@ void BuildListTool::mouseUp(TTrackingMode m, CPoint viewPt, WbView* pView, CWorl
 	//CMainFrame::GetMainFrame()->showOptionsDialog(IDD_BUILD_LIST_PANEL);
 }
 
+
