@@ -5453,3 +5453,4 @@ void Interior::SetPatternColorIndex(const VARIANT& newValue)
 	InvokeHelper(0x62, DISPATCH_PROPERTYPUT, VT_EMPTY, NULL, parms,
 		 &newValue);
 }
+
