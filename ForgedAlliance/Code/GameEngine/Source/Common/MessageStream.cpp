@@ -1190,3 +1190,4 @@ void buildRegion( const ICoord2D *anchor, const ICoord2D *dest, IRegion2D *regio
 		region->hi.y = anchor->y;
 	}
 }
+
