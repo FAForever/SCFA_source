@@ -313,3 +313,4 @@ void DamageFXStore::update()
 	dfx.clear();
 	ini->initFromINI(&dfx, dfx.getFieldParse());
 }
+
