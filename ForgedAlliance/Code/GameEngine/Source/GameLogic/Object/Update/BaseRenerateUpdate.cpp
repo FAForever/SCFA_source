@@ -184,3 +184,4 @@ void BaseRegenerateUpdate::loadPostProcess( void )
 	UpdateModule::loadPostProcess();
 
 }  // end loadPostProcess
+
