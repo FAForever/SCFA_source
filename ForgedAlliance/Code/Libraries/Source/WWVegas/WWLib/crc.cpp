@@ -220,3 +220,4 @@ unsigned long	CRC::String( const char *string, unsigned long crc)
 	}
 	return (crc ^ 0xFFFFFFFF); 						// invert new CRC and return it
 }
+
