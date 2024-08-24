@@ -427,3 +427,4 @@ void W3DWaypointBuffer::drawWaypoints(RenderInfoClass &rinfo)
 }
 
 
+
