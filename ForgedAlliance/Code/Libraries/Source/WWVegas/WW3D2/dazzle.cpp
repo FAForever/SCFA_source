@@ -1623,3 +1623,4 @@ PrototypeClass * DazzleLoaderClass::Load_W3D(ChunkLoadClass & cload)
 	return new_proto;
 }
 
+
