@@ -264,3 +264,4 @@ HWND InitPushButtonPropertiesDialog( GameWindow *window )
 
 
 
+
