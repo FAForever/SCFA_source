@@ -114,3 +114,4 @@ int Base64Straw::Get(void * source, int slen)
 
 	return(total);
 }
+
