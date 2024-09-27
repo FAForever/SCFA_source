@@ -257,3 +257,4 @@ void CameraOptions::OnShowWindow(BOOL bShow, UINT nStatus)
 
 	update();
 }
+
