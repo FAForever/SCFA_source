@@ -91,3 +91,4 @@ void SplashScreen::OnPaint()
 BEGIN_MESSAGE_MAP(SplashScreen, CDialog)
 	ON_WM_PAINT()
 END_MESSAGE_MAP()
+
