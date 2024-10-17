@@ -305,3 +305,4 @@ void DemoTrapUpdate::loadPostProcess( void )
 	UpdateModule::loadPostProcess();
 
 }  // end loadPostProcess
+
