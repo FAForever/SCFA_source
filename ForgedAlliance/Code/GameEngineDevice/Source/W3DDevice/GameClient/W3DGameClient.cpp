@@ -222,3 +222,4 @@ void W3DGameClient::adjustLOD( Int adj )
 //		TheTerrainRenderObject->adjustTerrainLOD( adj );
 
 }  // end adjustLOD
+
