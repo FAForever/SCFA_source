@@ -189,3 +189,4 @@ void FrameGrabClass::ConvertFrame(void *BitmapPointer)
 		}
 	}
 }
+
