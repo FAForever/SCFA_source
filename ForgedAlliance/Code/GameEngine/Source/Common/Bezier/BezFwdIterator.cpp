@@ -122,3 +122,4 @@ void BezFwdIterator::next(void)
 	++mStep;
 }
 
+
