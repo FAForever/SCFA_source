@@ -481,3 +481,4 @@ WindowMsgHandledType GadgetHorizontalSliderSystem( GameWindow *window, UnsignedI
 	return MSG_HANDLED;
 
 }  // end GadgetHorizontalSliderSystem
+
