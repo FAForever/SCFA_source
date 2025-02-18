@@ -965,3 +965,4 @@ void GlobalLightOptions::OnMove(int x, int y)
 	}
 	
 }
+
