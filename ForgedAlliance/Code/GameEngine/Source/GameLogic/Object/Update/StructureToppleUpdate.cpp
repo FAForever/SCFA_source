@@ -632,3 +632,4 @@ void StructureToppleUpdate::loadPostProcess( void )
 	UpdateModule::loadPostProcess();
 
 }  // end loadPostProcess
+
