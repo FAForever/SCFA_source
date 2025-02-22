@@ -266,3 +266,4 @@ int PaletteClass::Closest_Color(RGBClass const & rgb) const
 	}
 	return(closest);
 }
+
