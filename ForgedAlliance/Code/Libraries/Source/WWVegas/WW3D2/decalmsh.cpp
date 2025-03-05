@@ -1106,3 +1106,4 @@ bool SkinDecalMeshClass::Delete_Decal(uint32 id)
 
 	return true;
 }
+
