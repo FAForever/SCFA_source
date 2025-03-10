@@ -277,3 +277,4 @@ TwiddlerClass::Load_Variables (ChunkLoadClass &cload)
 
 	return true;
 }
+
