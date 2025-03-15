@@ -188,3 +188,4 @@ void TeamReinforcement::OnSelchangeWaypointCombo()
 	m_teamDict->setAsciiString(TheKey_teamReinforcementOrigin, comboText);
 }
 
+
